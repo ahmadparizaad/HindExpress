@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ahmadparizaad.github.io/News_App",
-  "name": "newsapp",
+  "homepage": "https://www.hindexpress.vercel.app",
+  "name": "hindexpress",
   "private": true,
   "version": "0.0.0",
   "type": "module",
